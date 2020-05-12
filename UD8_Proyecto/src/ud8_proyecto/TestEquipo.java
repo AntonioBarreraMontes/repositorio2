@@ -13,7 +13,7 @@ public class TestEquipo {
             
         while (contador==0){
             System.out.println(" ");//Comentario de prueba de enlace con GitHub
-            System.out.println("---------------------------------------------------");
+            System.out.println("---------------------------------------------------");//Este comentario lo escribí desde GitHub
             System.out.println("1 Añadir Jugador");
             System.out.println("2 Eliminar Jugador");
             System.out.println("3 Mostrar todos los jugadores");
