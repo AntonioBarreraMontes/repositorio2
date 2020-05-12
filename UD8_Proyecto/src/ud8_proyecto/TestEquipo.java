@@ -12,7 +12,7 @@ public class TestEquipo {
             System.out.println("Solo necesitaras escribir el número de lo que deseas hacer");
             
         while (contador==0){
-            System.out.println(" ");
+            System.out.println(" ");//Comentario de prueba de enlace con GitHub
             System.out.println("---------------------------------------------------");
             System.out.println("1 Añadir Jugador");
             System.out.println("2 Eliminar Jugador");
